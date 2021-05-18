@@ -6,7 +6,7 @@ Slack Police is a slack application that sends out a slack message every one hou
 
 You can set up an hourly cronjob by running adding the below line in the crontab file:
 
-```0 0 * * * <path_to_file>/slack.py```
+```0 * * * * <path_to_file>/slack.py```
 
 ### Output
 
