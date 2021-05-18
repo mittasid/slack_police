@@ -2,6 +2,10 @@
 
 Slack Police is a slack application that sends out a slack message every one hour with the hourly sentiment on the channel. The Slack App needs to be added to the channel and ```channel:read``` and ```channel:write``` scopes are to be given to the bot.
 
+## Setup
+
+Populate the env file with the token and channel name to be queried. 
+
 ## Running
 
 You can set up an hourly cronjob by running adding the below line in the crontab file:
