@@ -10,6 +10,8 @@ You can set up an hourly cronjob by running adding the below line in the crontab
 
 ### Output
 
+![Alt text](/slack_screenshot.png?raw=true "Slack Screenshot")
+
 
 
 
